@@ -1,0 +1,4 @@
+analyticskit
+pandas
+matplotlib
+openpyxl
